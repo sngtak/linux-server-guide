@@ -4,7 +4,15 @@
 
 ### 설치
 
+```bash
+$ sudo apt-get install ssh
+```
+
 ### 서버 실행
+
+```bash
+$ sudo service ssh start|stop|restart
+```
 
 ### 보안을 위한 포트 변경
 
@@ -17,3 +25,15 @@
 ### 설정
 
 ### 서버 연결
+
+###SSH를 통해 접속한 사용자 확인
+
+```bash
+$ who
+```
+
+###SSH 서비스 포트 확인
+
+```bash
+$ sudo netstat -anp | grep sshd
+```
