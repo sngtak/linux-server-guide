@@ -7,4 +7,5 @@
 * [GNU nano](GNU nano.md)
 * [Pico Editor](Pico Editor.md)
 * [OpenSSH Server](OpenSSH Server.md)
+* VMWare Player의 사용자 설치를 이용한 우분투 설치
 
