@@ -6,4 +6,5 @@
 * [GNU nano](GNU nano.md)
 * [Pico Editor](Pico Editor.md)
 * [OpenSSH Server](OpenSSH Server.md)
+* 리눅스 기본
 
