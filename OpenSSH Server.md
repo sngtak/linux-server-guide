@@ -11,7 +11,7 @@ $ sudo apt-get install ssh
 ### 서버 실행
 
 ```bash
-$ sudo service ssh start|stop|restart
+$ sudo service ssh start
 ```
 
 ### 서버 중지
@@ -29,8 +29,10 @@ $ sudo service ssh restart
 ### 보안을 위한 포트 변경
 
 ```bash
-$ sudo nano /etc/
+$ sudo nano /etc/ssh/sshd_config
 ```
+
+`Port 22`의 `22`를 원하는 포트 번호로 바꾸어 준다.
 
 ### 서버 재실행
 
