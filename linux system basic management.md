@@ -29,3 +29,19 @@ $ sudo yum list updates
 ```bash
 $ sudo yum update –y 
 ```
+
+## 시스템 종료 
+
+```bash
+$ sudo shutdown -h now
+```
+
+## 시스템 재시작
+
+```bash
+$ sudo shutdown -r now
+```
+
+```bash
+$ sudo reboot
+```
