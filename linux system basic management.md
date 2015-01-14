@@ -1,6 +1,6 @@
 # 리눅스 기본
 
-## Ubuntu
+## Ubuntu 패키지 관리
 
 ### 패키지 인덱스 정보를 업데이트
 
@@ -16,7 +16,7 @@ $ sudo apt-get update
 $ sudo apt-get upgrade
 ```
 
-##CentOS
+##CentOS 패키지 관리
 
 ###패키지 업데이트 목록 확인
 
