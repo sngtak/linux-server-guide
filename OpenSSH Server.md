@@ -16,6 +16,10 @@ $ sudo service ssh start|stop|restart
 
 ### 보안을 위한 포트 변경
 
+```bash
+$ sudo nano /etc/
+```
+
 ### 서버 재실행
 
 ## 클라이언트 - Putty 
