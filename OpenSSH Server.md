@@ -36,11 +36,25 @@ $ sudo nano /etc/ssh/sshd_config
 
 ### 서버 재실행
 
-## 클라이언트 - Putty 
+## 클라이언트 - PuTTY 
 
 ### 다운로드
 
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
+
+### 서버 아이피 주소 확인
+
+```bash
+$ ifconfig
+```
+
+
+
 ### 설정
+
+
 
 ### 서버 연결
 
