@@ -4,8 +4,8 @@
 
 ### 1.1. VMWare Player를 이용한 리눅스 설치
 
-1. 쉬운 설치를 통한 우분투 설치
-2. 사용자 설치를 통한 우분투 설치
+1. [쉬운 설치를 통한 우분투 설치](Install Ubuntu Using Easy Install On Vmware Player.md)
+2. [사용자 설치를 통한 우분투 설치](Install Ubuntu Using Custom Install On Vmware Player.md)
 	
 ### 1.2. VirtualBox를 이용한 리눅스 설치
 
@@ -25,12 +25,12 @@
 1. DPKG(Debian Package)
 2. APT(Advanced Packaging Took)
 2. RPM(Redhat Package Manager)
-3. YUM(Yellowdog Updater, Modified)
+3. [YUM(Yellowdog Updater, Modified)](YUM.md)
 
 ### 2.3. 편집기
 
-1. Pico
-2. nano
+1. [Pico Editor](Pico Editor.md)
+2. [GNU nano](GNU nano.md)
 3. vi Editor
 
 ## 3. 리눅스 명령어
@@ -48,13 +48,12 @@
 
 ### 4.2. 원격 접속(SSH)
 
-1. SSH 서버 관리
-2. 클라이언 활용
+1. [OpenSSH](OpenSSH Server.md)
 
 ### 4.3. 파일 전송(FTP)
 
 1. ProFTP
-2. VSFTP
+2. [VSFTP](/vsftpd.md)
 3. TFTP
 
 ### 4.4. APM
