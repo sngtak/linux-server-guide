@@ -50,13 +50,19 @@ http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe
 $ ifconfig
 ```
 
-
+![PuTTY](PuTTY/1.png)
 
 ### 설정
 
-
+![PuTTY](PuTTY/2.png)
 
 ### 서버 연결
+
+![PuTTY](PuTTY/3.png)
+
+![PuTTY](PuTTY/5.png)
+
+![PuTTY](PuTTY/6.png)
 
 ###SSH를 통해 접속한 사용자 확인
 
@@ -64,8 +70,12 @@ $ ifconfig
 $ who
 ```
 
+![PuTTY](PuTTY/7.png)
+
 ###SSH 서비스 포트 확인
 
 ```bash
 $ sudo netstat -anp | grep sshd
+
+![PuTTY](PuTTY/8.png)
 ```
