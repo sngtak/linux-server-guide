@@ -76,6 +76,8 @@ $ who
 
 ```bash
 $ sudo netstat -anp | grep sshd
+```
 
 ![PuTTY](PuTTY/8.png)
-```
+
+![PuTTY](PuTTY/7.png)
