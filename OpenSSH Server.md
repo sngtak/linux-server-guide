@@ -14,6 +14,18 @@ $ sudo apt-get install ssh
 $ sudo service ssh start|stop|restart
 ```
 
+### 서버 중지
+
+```bash
+$ sudo service ssh stop
+```
+
+### 서버 재실행
+
+```bash
+$ sudo service ssh restart
+```
+
 ### 보안을 위한 포트 변경
 
 ```bash
